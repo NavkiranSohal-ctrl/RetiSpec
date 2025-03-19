@@ -3,6 +3,8 @@
 ## Overview
 RetiSpec (Retinal Images Review Tool) is a MERN application with a Python backend for patient management, uploading of Fundus images, metadata processing, and statistics visualization. The web application is cloud-ready and deployable.
 
+**README.python.md**:  Flask Backend for Over-Illumination and AI Readiness Check (app.py):   https://github.com/NavkiranSohal-ctrl/RetiSpec/blob/master/README.python.md
+
 ## Folder Structure
 ```
 CHAP-APP/
