@@ -5,6 +5,8 @@ RetiSpec (Retinal Images Review Tool) is a MERN application with a Python backen
 
 **README.python.md**:  Flask Backend for Over-Illumination and AI Readiness Check (app.py):   https://github.com/NavkiranSohal-ctrl/RetiSpec/blob/master/README.python.md
 
+**Loom Recording Video Link**: https://www.loom.com/share/cd85f083b0124681b078b6f2ccdda0bd?sid=17aaa212-6a3e-413c-9c43-13eae87ddae0
+
 ## Folder Structure
 ```
 CHAP-APP/
